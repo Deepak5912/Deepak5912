@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I’m currently building Java backend projects with Spring Boot, focusing on REST APIs, microservices fundamentals, and database integration. Alongside backend development, I’m enhancing my Data Analytics skills with Python, SQL, and Power BI, and gaining hands-on experience in both manual and basic automation testing. I enjoy collaborating on Java/Spring Boot projects, open-source contributions, analytics dashboards, and ML practice tasks. I’m seeking to improve my backend code quality, SQL performance, test automation skills, and interview readiness. I’m actively learning advanced Java concepts, Spring Boot (JPA, Hibernate), analytics tools, and essential QA practices. I love working on real-world mini projects and solving challenging bugs—they teach me more than anything else.
+I’m currently building Java backend projects with Spring Boot, focusing on REST APIs, microservices fundamentals, and database integration. Alongside backend development, I’m enhancing my Data Analytics skills with Python, SQL, and Power BI, and gaining hands-on experience in both manual and basic automation testing. I enjoy collaborating on Java/Spring Boot projects, open-source contributions, analytics dashboards, and ML practice tasks . I’m seeking to improve my backend code quality, SQL performance, test automation skills, and interview readiness. I’m actively learning advanced Java concepts, Spring Boot (JPA, Hibernate), analytics tools, and essential QA practices. I love working on real-world mini projects and solving challenging bugs—they teach me more than anything else.
 
 
 # 💻 Tech Stack:
